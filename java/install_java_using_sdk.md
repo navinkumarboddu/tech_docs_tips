@@ -1,3 +1,6 @@
+# JAVA
+<hr>
+
 The installation guide for SDKMan can be found at: [Installation - SDKMAN! the Software Development Kit Manager](https://github.com/navinkumarboddu/tech_docs_tips/blob/main/java/sdk_install.md).
 
 #### # Afterwards you can list Java versions with
