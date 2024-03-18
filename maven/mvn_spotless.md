@@ -15,7 +15,7 @@ To add the Spotless plugin to your Maven project, you need to modify your pom.xm
             <plugin>
                 <groupId>com.diffplug.spotless</groupId>
                 <artifactId>spotless-maven-plugin</artifactId>
-                <version>5.14.1</version>
+                <version>2.43.0</version>
                 <executions>
                     <execution>
                         <id>format</id>
@@ -33,7 +33,7 @@ To add the Spotless plugin to your Maven project, you need to modify your pom.xm
 
 In this configuration:
 
-* **com.diffplug.spotless:spotless-maven-plugin** is the Spotless Maven plugin.
+* **com.diffplug.spotless:spotless-maven-plugin** is the Spotless Maven plugin. Here `2.43.0` is the latest version, follow this link for [latest version](https://mvnrepository.com/artifact/com.diffplug.spotless/spotless-maven-plugin)
 * The **<_executions_>** section specifies when the plugin should run. In this case, it's set up to run during the **apply** phase. 
 * The **<_configuration_>** section allows you to define formatting rules. You can specify different formatting rules for different file types for our case we have not included configuration here.
 
