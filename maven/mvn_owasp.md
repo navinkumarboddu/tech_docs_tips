@@ -1,3 +1,5 @@
+# Integrate OWASP Dependency Check with Maven
+
 <plugin>
 	<groupId>org.owasp</groupId>
 	<artifactId>dependency-check-maven</artifactId>
