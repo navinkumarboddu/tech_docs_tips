@@ -21,3 +21,5 @@ but support will come with Spring Boot 3.X.
     #2 For Spring Boot 3.X you should stick with jakarta.
 ```
 
+Checkout an application using spring-boot-starter-validation and Jakarta Validation support in Spring Boot:
+https://github.com/navinkumarboddu/spring_boot_learning/tree/main/in28minutes
