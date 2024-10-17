@@ -34,34 +34,40 @@ source myenv/bin/activate  # On Windows: myenv\Scripts\activate
 #### Step 4: Install Jupyter Notebook
 
 Once you have Python and pip ready (and optionally activated a virtual environment), you can install Jupyter Notebook using pip:
-
+```markdown
 pip install notebook
+```
 
 #### Step 5: Launch Jupyter Notebook
 
 After the installation is complete, you can start Jupyter Notebook by running:
-
+```markdown
 jupyter notebook
+```
 
 This will open Jupyter Notebook in your default web browser.
+
 #### Step 6: Access Jupyter Notebook
 
 Jupyter Notebook should automatically open in your default web browser. If it doesn’t, you can manually open the URL displayed in the terminal, which is typically something like http://localhost:8888/.
 Optional: Install Additional Libraries
 
 Depending on what you plan to do with Jupyter Notebook, you might need to install additional Python libraries:
-
+```markdown
 pip install numpy pandas matplotlib
+```
 
 #### Step 7: (Optional) Install JupyterLab
 
 If you prefer the JupyterLab interface, which is a more modern, feature-rich environment, you can install it with:
-
+```markdown
 pip install jupyterlab
+```
 
 You can then start JupyterLab with:
-
+```markdown
 jupyter lab
+```
 
 Troubleshooting
 
